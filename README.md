@@ -2,6 +2,13 @@
 You make use this software for anything you see fit 100% Unrestictided, except the POP.wav sound effect that I made, I will be using it again.
 Here is the itch.io link: https://everything-ridiculous.itch.io/random-number-generator
 Here is the full code in lua:
+
+
+
+
+
+
+
 function love.load()
     love.window.setMode(0, 0, {fullscreen = true})
     love.graphics.setBackgroundColor(26/255, 121/255, 255/255)
